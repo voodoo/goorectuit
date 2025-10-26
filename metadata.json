@@ -1,0 +1,5 @@
+{
+  "name": "Recruitment Sandbox AI",
+  "description": "An AI-powered tool for recruiters to instantly generate polished job descriptions and tailored interview guides from raw notes. Toggle 'Thinking Mode' for more complex role requirements.",
+  "requestFramePermissions": []
+}
